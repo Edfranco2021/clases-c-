@@ -1,0 +1,15 @@
+F:\info a leer\c# curso\clase 1\holaMundo\holaMundo\bin\Debug\net6.0\holaMundo.exe
+F:\info a leer\c# curso\clase 1\holaMundo\holaMundo\bin\Debug\net6.0\holaMundo.deps.json
+F:\info a leer\c# curso\clase 1\holaMundo\holaMundo\bin\Debug\net6.0\holaMundo.runtimeconfig.json
+F:\info a leer\c# curso\clase 1\holaMundo\holaMundo\bin\Debug\net6.0\holaMundo.dll
+F:\info a leer\c# curso\clase 1\holaMundo\holaMundo\bin\Debug\net6.0\holaMundo.pdb
+F:\info a leer\c# curso\clase 1\holaMundo\holaMundo\obj\Debug\net6.0\holaMundo.csproj.AssemblyReference.cache
+F:\info a leer\c# curso\clase 1\holaMundo\holaMundo\obj\Debug\net6.0\holaMundo.GeneratedMSBuildEditorConfig.editorconfig
+F:\info a leer\c# curso\clase 1\holaMundo\holaMundo\obj\Debug\net6.0\holaMundo.AssemblyInfoInputs.cache
+F:\info a leer\c# curso\clase 1\holaMundo\holaMundo\obj\Debug\net6.0\holaMundo.AssemblyInfo.cs
+F:\info a leer\c# curso\clase 1\holaMundo\holaMundo\obj\Debug\net6.0\holaMundo.csproj.CoreCompileInputs.cache
+F:\info a leer\c# curso\clase 1\holaMundo\holaMundo\obj\Debug\net6.0\holaMundo.dll
+F:\info a leer\c# curso\clase 1\holaMundo\holaMundo\obj\Debug\net6.0\refint\holaMundo.dll
+F:\info a leer\c# curso\clase 1\holaMundo\holaMundo\obj\Debug\net6.0\holaMundo.pdb
+F:\info a leer\c# curso\clase 1\holaMundo\holaMundo\obj\Debug\net6.0\holaMundo.genruntimeconfig.cache
+F:\info a leer\c# curso\clase 1\holaMundo\holaMundo\obj\Debug\net6.0\ref\holaMundo.dll
